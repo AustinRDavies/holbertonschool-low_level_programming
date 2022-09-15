@@ -1,8 +1,6 @@
 #include<stdio.h>
 /**
- * main - Entry Poin
- *
- * Return: Always 0 (Success)
+ * This script will print a line of text followed by a new line.
  */
 int main(void)
 {
