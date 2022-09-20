@@ -4,14 +4,7 @@
  *
  * Return - Always 0 (success)
  */
-int main(void)
-{
-	print_alphabet(void);
-	_putchar('\n');
-	return (0);
-}
-
-void print_alpahbet(void)
+void print_alphabet()
 {
 	char x;
 
@@ -20,3 +13,11 @@ void print_alpahbet(void)
 		_putchar(x);
 	}
 }
+
+int main(void)
+{
+	print_alphabet();
+	_putchar('\n');
+	return (0);
+}
+
