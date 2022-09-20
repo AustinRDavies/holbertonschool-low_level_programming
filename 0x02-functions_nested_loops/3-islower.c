@@ -2,7 +2,7 @@
 /**
  * _islower - definition of the function.
  *
- * c - int for the character
+ * int c - int for the character
  *
  * Return: 1 if lowercase, 0 if non-lowercase eter
  */
