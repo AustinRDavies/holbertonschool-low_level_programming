@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * _islower - definition of the function.
- * 
- * C - int for the character
+ *
+ * c - int for the character
  *
  * Return: 1 if lowercase, 0 if non-lowercase eter
  */
