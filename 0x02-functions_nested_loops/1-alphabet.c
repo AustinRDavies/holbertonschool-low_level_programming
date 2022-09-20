@@ -4,19 +4,9 @@
  *
  * Return - Always 0 (success)
  */
-void print_alphabet(char x)
-{
-	for (x = 'a'; x <= 'z'; x++)
-	{
-		_putchar(x);
-	}
-}
-
 int main(void)
 {
-	char x
-
-	print_alphabet(x);
+	print_alphabet();
 	_putchar('\n');
 	return (0);
 }
