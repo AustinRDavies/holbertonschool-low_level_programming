@@ -6,8 +6,8 @@
  *
  * Return: 0
  */
-int _abs(int n)
+int _abs(int)
 {
-	_putchar(n);
+	_putchar(int);
 	return (0);
 }
