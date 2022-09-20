@@ -6,8 +6,18 @@
  *
  * Return: 0
  */
-int _abs(int)
+int _abs(int n)
 {
-	_putchar(int);
+	int x;
+
+	if (n >= 0)
+	{
+		_putchar(n);
+	}
+	else
+	{
+		x = n * -1;
+		_putchar(n);
+	}
 	return (0);
 }
