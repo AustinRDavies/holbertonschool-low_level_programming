@@ -6,20 +6,18 @@
  *
  * Return: 0
  */
-int _abs(int)
+int _abs(int n)
 {
-	int n;
+	int a;
 
-	if (int >= 0)
+	if (n >= 0)
 	{
-		_putchar(int);
-		return (0);
+		_putchar(n);
 	}
-	else if (int > 0)
+	else if (n > 0)
 	{
-		n = int * -1; 
-		_putchar('+');
-		return (1);
+		a = n * -1; 
+		_putchar(a);
 	}
 	return (1);
 }
