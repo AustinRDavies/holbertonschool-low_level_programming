@@ -4,9 +4,14 @@
  *
  * Return - Always 0 (success)
  */
-int alpha(void)
+void print_alphabet(void)
 {
-	print_alphabet();
+	char x;
+
+	for (x = 'a'; x <= 'z'; x++)
+	{
+		putchar(x);
+	}
 	_putchar('\n');
 	return (0);
 }
