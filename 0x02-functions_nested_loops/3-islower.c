@@ -2,7 +2,7 @@
 /**
  * islower - definition of the function.
  */
-int islower(int c);
+int islower(int);
 {
 	int c;
 
