@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _abs - defintion for the function
+ * print_last_digit - defintion for the function
  *
  * @n: int for the number entered
  *
@@ -16,5 +16,5 @@ int print_last_digit(int n)
 		x = x * -1;
 	}
 	_putchar(x + '0');
-	return(x);
+	return (x);
 }
