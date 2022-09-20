@@ -9,6 +9,8 @@
 int _abs(int n)
 {
 	int x;
+	
+	x = n * -1;
 
 	if (n >= 0)
 	{
@@ -16,7 +18,6 @@ int _abs(int n)
 	}
 	else
 	{
-		x = n * -1;
 		_putchar(n);
 	}
 	return (0);
