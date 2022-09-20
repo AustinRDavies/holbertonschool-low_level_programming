@@ -8,7 +8,7 @@ void jack_bauer(void)
 	int t;
 	int l;
 	
-	f = 0
+	f = 0;
 	while (f <= '2')
 	{	
 		s = 0;
