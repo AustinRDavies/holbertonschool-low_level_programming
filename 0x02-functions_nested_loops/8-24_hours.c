@@ -26,6 +26,7 @@ void jack_bauer(void)
 					_putchar(':');
 					_putchar(t);
 					_putchar(l);
+					_putchar('\n');
 					l++;
 				}
 				t++;
