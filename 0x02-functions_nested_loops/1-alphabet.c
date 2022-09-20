@@ -6,7 +6,17 @@
  */
 int main(void)
 {
-	_putchar(print_alphabet());
+	char x;
+
+	print_alphabet();
 	_putchar('\n');
 	return (0);
+}
+
+void print_alpahbet(void)
+{
+	for(x = 'a'; x <= 'z'; x++)
+	{
+		putchar (x);
+	}
 }
