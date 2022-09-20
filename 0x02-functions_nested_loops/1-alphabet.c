@@ -8,15 +8,15 @@ int main(void)
 {
 	char x;
 
-	print_alphabet();
+	print_alphabet(x);
 	_putchar('\n');
 	return (0);
 }
 
-void print_alpahbet(void)
+void print_alpahbet(char)
 {
-	for(x = 'a'; x <= 'z'; x++)
+	for(char = 'a'; char <= 'z'; char++)
 	{
-		putchar (x);
+		putchar (char);
 	}
 }
