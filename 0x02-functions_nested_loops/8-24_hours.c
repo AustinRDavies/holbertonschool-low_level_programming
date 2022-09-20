@@ -24,7 +24,7 @@ void jack_bauer(void)
 				while (l <= '9')
 				{
 					_putchar(f);
-					if (f == '2' && s >= 3)
+					if (f == '2' && s == '4')
 					{
 						_putchar(o);
 					}
