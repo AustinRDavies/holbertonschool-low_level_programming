@@ -13,7 +13,7 @@ void jack_bauer(void)
 	while (f <= '2')
 	{	
 		s = 0;
-		while (s <= '4')
+		while (s <= '3')
 		{
 			t = 0;
 			while (t <= '5')
