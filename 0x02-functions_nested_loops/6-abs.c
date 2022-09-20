@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_sign - defintion for the function
+ * _abs - defintion for the function
  *
  * @n: int for the number entered
  *
