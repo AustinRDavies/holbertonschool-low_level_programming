@@ -9,16 +9,16 @@ void jack_bauer(void)
 	int t;
 	int l;
 	
-	f = 0;
+	f = '0';
 	while (f <= '2')
 	{	
-		s = 0;
+		s = '0';
 		while (s <= '3')
 		{
-			t = 0;
+			t = '0';
 			while (t <= '5')
 			{
-				l = 0;
+				l = '0';
 				while (l <= '9')
 				{
 					_putchar(f);
