@@ -2,7 +2,7 @@
 /**
  * print_sign - defintion for the function
  *
- * @n - int for the number entered
+ * @n: int for the number entered
  *
  * Return: 1 for greater and zero, 0 if zero, -1 if lest than zero
  */
