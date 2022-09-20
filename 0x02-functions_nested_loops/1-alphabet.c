@@ -11,10 +11,12 @@ int main(void)
 	return (0);
 }
 
-void print_alpahbet(char)
+void print_alpahbet(void)
 {
-	for(char = 'a'; char <= 'z'; char++)
+	char x;
+
+	for(x = 'a'; x <= 'z'; x++)
 	{
-		putchar (char);
+		_putchar(x);
 	}
 }
