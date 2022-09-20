@@ -1,8 +1,10 @@
 #include "main.h"
 /**
- * islower - definition of the function.
+ * _islower - definition of the function.
  * 
- * Return - 1 if lowercase, 0 if non-lowercase eter
+ * C - int for the character
+ *
+ * Return: 1 if lowercase, 0 if non-lowercase eter
  */
 int _islower(int c)
 {
