@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_alphabet - definition for the function
+ * print_alphabet_x10 - definition for the function
  */
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 	char x;
 	int i;
