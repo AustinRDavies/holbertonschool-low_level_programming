@@ -2,7 +2,7 @@
 #include "main.h"
 /**
  * print_to_98 - will print number counting from n to 98
- * 
+ *
  * @n: starting number
  *
  * return: void
