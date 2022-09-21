@@ -1,10 +1,11 @@
+#include <stdio.h>
 #include "main.h"
 /**
  * print_to_98 - will print number counting from n to 98
- *
+ * 
  * @n: starting number
  *
- * Return - 0
+ * return: void
  */
 void print_to_98(int n)
 {
@@ -22,7 +23,7 @@ void print_to_98(int n)
 		while (n < 98)
 		{
 			printf("%d, ");
-			n++
+			n++;
 		}
 		printf("%d\n", n);
 	}
