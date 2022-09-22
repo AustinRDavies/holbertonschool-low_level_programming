@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_numbers - will print 0-9
+ * more_numbers - will print 0-14
  */
-void print_numbers(void)
+void more_numbers(void)
 {
 	int x;
 
