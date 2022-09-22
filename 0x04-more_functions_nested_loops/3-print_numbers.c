@@ -1,10 +1,6 @@
 #include "main.h"
 /**
  * print_numbers - will print 0-9
- *
- * @x: increasing number variable
- *
- * Return: void
  */
 void print_numbers(void)
 {
