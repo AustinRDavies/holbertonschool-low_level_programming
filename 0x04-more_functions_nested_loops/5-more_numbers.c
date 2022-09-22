@@ -11,9 +11,9 @@ void more_numbers(void)
 	int y;
 	int z;
 
-	for (c = '1'; c <= 10; c++)
+	for (c = 0; c <= 9; c++)
 	{
-		for (x = '0'; x <= 14; x++)
+		for (x = 0; x <= 14; x++)
 		{
 			y = x % 10;
 			z = x / 10;
