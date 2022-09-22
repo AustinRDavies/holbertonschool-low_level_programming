@@ -1,10 +1,10 @@
-nclude "main.h"
+#include "main.h"
 /**
  * mul -multiply numbers
  *
- * @n:first number
+ * @a:first number
  *
- * @x:second number
+ * @b:second number
  *
  * Return: 0 (sucess)
  */
