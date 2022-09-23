@@ -2,8 +2,6 @@
 /**
  * main - fizzbuzz test program
  *
- * @i: counter
- *
  * Return: void
  */
 int main(void)
@@ -33,5 +31,5 @@ int main(void)
 			putchar(' ');
 		}
 	}
-	return(0);
+	return (0);
 }
